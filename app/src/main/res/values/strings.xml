@@ -13,5 +13,5 @@
     <string name="celsius">Celsius</string>
     <string name="kelvin">Kelvin</string>
 
-    <string name="temperature_input">72</string>
+    <string name="enter_temperature">Enter Temperature</string>
 </resources>
