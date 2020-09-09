@@ -11,4 +11,6 @@
     <string name="kelvin">Kelvin</string>
 
     <string name="enter_temperature">Enter Temperature</string>
+
+    <string name="update_text"></string>
 </resources>
